@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.greeting {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card_button {
+    padding: 0.5rem 1rem;
+    border: none;
+    margin: 2rem;
+    font-weight: bold;
+    background-color: lightcoral;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+.contact__github {
+    font-size: 36px;
+    color: inherit;
+}
